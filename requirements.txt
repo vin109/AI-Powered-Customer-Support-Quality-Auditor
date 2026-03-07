@@ -1,0 +1,8 @@
+pandas
+streamlit
+reportlab
+python-dotenv
+pinecone-client
+sentence-transformers
+ollama
+chromadb

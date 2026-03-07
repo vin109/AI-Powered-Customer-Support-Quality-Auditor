@@ -1,1 +1,22 @@
+# Environments
 .env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Generated files and logs
+*.pdf
+*.log
+
+# Windows / OS specific
+.DS_Store
+Thumbs.db
