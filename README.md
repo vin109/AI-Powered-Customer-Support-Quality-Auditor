@@ -74,7 +74,7 @@ streamlit run dashboard.py
 ```
 
 ## 📸 Screenshots
-<img width="2238" height="2113" alt="passport" src="https://github.com/user-attachments/assets/011fad80-d25a-4321-8930-54cb51471841" />
+<img width="1440" height="678" alt="Screenshot 2026-07-02 125654" src="https://github.com/user-attachments/assets/de4dd45f-10e6-41c7-849c-a5b1a1e62c41" />
 
 
 ## 📁 Project Structure
