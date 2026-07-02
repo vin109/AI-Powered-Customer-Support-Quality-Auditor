@@ -74,9 +74,8 @@ streamlit run dashboard.py
 ```
 
 ## 📸 Screenshots
-> **Note:** Add screenshots of your Streamlit Dashboard, Score Visualization, and generated PDF reports here to make your project stand out!
-> 
-> *Example:* `![Dashboard Screenshot](link_to_your_image)`
+<img width="2238" height="2113" alt="passport" src="https://github.com/user-attachments/assets/011fad80-d25a-4321-8930-54cb51471841" />
+
 
 ## 📁 Project Structure
 ```text
